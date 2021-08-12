@@ -1,4 +1,5 @@
 ﻿using SEDC.PizzaApp.Models.Domain;
+using SEDC.PizzaApp.Models.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,6 @@ namespace SEDC.PizzaApp
 {
     public static class StaticDb
     {
-        public static string Message = "Message 1";
         public static List<Pizza> Pizzas = new List<Pizza>
         {
             new Pizza
@@ -16,14 +16,18 @@ namespace SEDC.PizzaApp
                 Id = 1,
                 Name="Capri",
                 Price = 350,
-                IsOnPromotion = true
+                IsOnPromotion = true,
+                PizzaSize = PizzaSize.Normal,
+                HasExtras = false
             },
             new Pizza
             {
                 Id = 2,
                 Name="Margarita",
                 Price = 380,
-                IsOnPromotion = false
+                IsOnPromotion = false,
+                PizzaSize = PizzaSize.Family,
+                HasExtras = true
             }
         };
 
@@ -52,16 +56,14 @@ namespace SEDC.PizzaApp
                 Id =1,
                 Pizza = Pizzas.First(),
                 User = Users.First(),
-                PaymentMethod = Models.Enums.PaymentMethod.Card,
-                Delivered = true
+                PaymentMethod = Models.Enums.PaymentMethod.Card
             },
             new Order
             {
                 Id =2 ,
                 Pizza = Pizzas.Last(),
                 User = Users.Last(),
-                PaymentMethod = Models.Enums.PaymentMethod.Cash,
-                Delivered = false
+                PaymentMethod = Models.Enums.PaymentMethod.Cash
             }
         };
     }

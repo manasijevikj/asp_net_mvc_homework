@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SEDC.PizzaApp.Models.Domain;
+using SEDC.PizzaApp.Models.Mappers;
+using SEDC.PizzaApp.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace SEDC.PizzaApp.Controllers
 {
@@ -12,7 +13,12 @@ namespace SEDC.PizzaApp.Controllers
         public IActionResult Index()
         {
             List<Pizza> pizzas = StaticDb.Pizzas;
-            return View(pizzas); //we send the list to the view
+            ViewData["Title"] = "Pizza List";
+            List<PizzaViewModel> pizzaViewModels = pizzas
+                .Select(x => x.PizzaToPizzaViewModelExtensionMethod()).ToList(); //Using Extension Method
+
+            return View(pizzaViewModels); //we send the list to the view
+
         }
 
         public IActionResult Details(int? id)
@@ -26,8 +32,12 @@ namespace SEDC.PizzaApp.Controllers
             {
                 return new EmptyResult();
             }
+            ViewData["Title"] = "Pizza Details";
+            PizzaViewModel pizzaTemp = pizza.PizzaToPizzaViewModelExtensionMethod(); //Using Extension Method
+            ViewBag.PizzaViewModel = pizzaTemp;
             return View(pizza);
         }
+
         [Route("SeePizzas")] //localhost:[port]/SeePizzas
         public IActionResult Redirect()
         {

@@ -24,8 +24,7 @@ namespace SEDC.PizzaApp.Controllers
             //    orderListViewModels.Add(OrderMapper.OrderToOrderListViewModel(orderDb));
             //}
 
-            //ViewData["Message"] = $"The number of orders is: {ordersDb.Count}";
-            ViewData["Message"] = StaticDb.Message; 
+            ViewData["Message"] = $"The number of orders is: {ordersDb.Count}";
             ViewData["Title"] = "Orders list";
             ViewData["Date"] = DateTime.Now.ToShortDateString();
 
@@ -40,34 +39,15 @@ namespace SEDC.PizzaApp.Controllers
             {
                 return new EmptyResult();
             }
-            //ViewBag.Message = "You are on the order details page";
-            ViewBag.Message = StaticDb.Message;
+            ViewBag.Message = "You are on the order details page";
             ViewBag.User = StaticDb.Users.First();
             //orderDb -> DB
             Order orderDb = StaticDb.Orders.FirstOrDefault(x => x.Id == id);
             if(orderDb == null)
             {
-                //return new EmptyResult();
-                return View("ResourceNotFound"); //first look in Order folder, then in Shared
-            }
-            //view model -> data to the view
-            OrderDetailsViewModel orderDetailsViewModel = OrderMapper.OrderToOrderDetailsViewModel(orderDb);
-            return View(orderDetailsViewModel);
-        }
-
-
-        public IActionResult Delete(int? id)
-        {
-            if (id == null)
-            {
                 return new EmptyResult();
             }
-            Order orderDb = StaticDb.Orders.FirstOrDefault(x => x.Id == id);
-            if (orderDb == null)
-            {
-                //return new EmptyResult();
-                return View("ResourceNotFound"); //first look in Order folder, then in Shared
-            }
+            //view model -> data to the view
             OrderDetailsViewModel orderDetailsViewModel = OrderMapper.OrderToOrderDetailsViewModel(orderDb);
             return View(orderDetailsViewModel);
         }

@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SEDC.PizzaApp.Models;
+using SEDC.PizzaApp.Models.Domain;
+using SEDC.PizzaApp.Models.Mappers;
+using SEDC.PizzaApp.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -30,18 +33,20 @@ namespace SEDC.PizzaApp.Controllers
         [Route("AboutUs")]
         public IActionResult About()
         {
-            StaticDb.Message = "About action changed the message!";
             return View();
         }
         [Route("ContactUs")]
         public IActionResult Contact()
         {
             return View();
-        }
+        }     
 
-        public IActionResult ReturnAnotherView()
+        public IActionResult SeeUsers()
         {
-            return View("NewView"); //Home folder -> NewView.cshtml
+            List<User> users = StaticDb.Users;
+            List<UserViewModel> usersVM = users.Select(x => x.UserToUserViewModelExtensionMethod()).ToList();
+
+            return View(usersVM);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
