@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdfoX+blir8V/whNJvV9+4yUf4q9QuU7hOLrUkz6Jkco6CRk3/Q3W2A0o+aycum/Q+huhEV8DVni0R+PsrMiJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Homework_Class07\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.18\\microsoft.extensions.dependencyinjection.3.1.18.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.18\\microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
