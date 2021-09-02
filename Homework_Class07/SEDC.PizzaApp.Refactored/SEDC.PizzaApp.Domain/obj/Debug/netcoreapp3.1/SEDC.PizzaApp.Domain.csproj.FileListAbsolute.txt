@@ -8,3 +8,13 @@ C:\Users\aleks\Desktop\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.D
 C:\Users\aleks\Desktop\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\aleks\Desktop\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
 C:\Users\aleks\Desktop\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\asp_net_mvc_homework\Homework_Class07\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
