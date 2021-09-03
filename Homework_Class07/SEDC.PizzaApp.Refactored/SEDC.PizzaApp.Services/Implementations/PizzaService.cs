@@ -42,17 +42,7 @@ namespace SEDC.PizzaApp.Services.Implementations
 
         public void CreatePizza(PizzaViewModel pizzaViewModel)
         {
-
             Pizza pizza = pizzaViewModel.ToPizza();
-
-            Pizza pizzaTemp =_pizzaRepository.GetAll().LastOrDefault();
-            int id;
-            if(pizzaTemp == null)
-            {
-                id = 1;
-            }
-            id = pizzaTemp.Id;
-            pizza.Id = id;
             _pizzaRepository.Insert(pizza);
         }
     }
