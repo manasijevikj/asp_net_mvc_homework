@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\asp_net_mvc_homework\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
       "projectName": "SEDC.PizzaApp.Shared",
-      "projectPath": "C:\\Users\\aleks\\Desktop\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\asp_net_mvc_homework\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\Desktop\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\asp_net_mvc_homework\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

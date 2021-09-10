@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PEMGV9uzi4m86iYrDpd83lX2ebhH5XIvrjl1XIUG0Esnd2DFvG8gK3BoU7Ar4eohoj0PBjbFMib6njOKShbvNQ==",
+  "dgSpecHash": "uwBTSWGI6vBC3+4S20TmoikDF5wjF64kU+/Kn02OVDOmIPMRnMArXICRDBY2qR/Z10RE62EH8xUAwhe3xjFv0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\asp_net_mvc_homework\\Homework_Class08\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
