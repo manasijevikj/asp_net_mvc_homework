@@ -1,0 +1,24 @@
+﻿@model PizzaDetailsViewModel
+<div class="text-center">
+    <h2 class="display-4">Pizza Details</h2>
+</div>
+<br />
+<br />
+
+
+<div class="card text-white bg-dark mb-3" style="max-width: 18rem; margin-left:10px;">
+    <div class="card-body">
+        <img class="card-img-top" src="https://alternate-takes.com/wp-content/uploads/2021/05/s2.jpg" alt="Card image cap">
+        <h5 class="card-title"><label asp-for="Name"></label>: @Model.Name</h5>
+        <h5 class="card-title"><label asp-for="Id"></label>: @Model.Id</h5>
+        <h6 class="card-subtitle mb-2 text-muted">
+            <label asp-for="IsOnPromotion"></label>: @if (Model.IsOnPromotion)
+            {<span>Yes</span>}
+            else
+            {
+                <span>No</span>
+            }
+        </h6>
+    </div>
+</div>
+<br />
