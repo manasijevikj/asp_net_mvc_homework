@@ -1,0 +1,24 @@
+﻿@model List<FeedbackViewModel>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Feedback" class="btn">Create Review</a>
+    <h2 class="display-4">List of reviews:</h2>
+</div>
+<br />
+
+
+<div class="row">
+    @foreach (var feedback in @Model)
+    {
+
+    <div class="card text-white bg-dark mb-3" style="max-width: 18rem; margin-left:10px;">
+
+        <div class="card-body">
+            <h5 class="card-title text-center">@feedback.Name</h5>
+            <img class="card-img-top" src="https://media.wsimag.com/attachments/65d21ec7e8c0a029bf0bd5c1e17b23a13c012b96/store/fill/1470/827/9c07ac704f6e70c81a216485d9e1451ae5ce8920729b3270ce236345f211/Giving-Feedback.jpg" alt="Card image cap">
+        </div>
+        <a asp-controller="Feedback" asp-action="Details" asp-route-id="@feedback.Id" style="text-align:center">See details</a>
+        <a asp-controller="Feedback" asp-action="Edit" asp-route-id="@feedback.Id" style="text-align:center">Edit feedback</a>
+        <a asp-controller="Feedback" asp-action="Delete" asp-route-id="@feedback.Id" style="text-align:center">Delete feedback</a>
+    </div>}
+</div>

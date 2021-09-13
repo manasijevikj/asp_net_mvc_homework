@@ -1,0 +1,38 @@
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class08\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class09\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class10\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
